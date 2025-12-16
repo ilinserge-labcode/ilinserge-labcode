@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**ilinserge-labcode/ilinserge-labcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Образование:
 
-Here are some ideas to get you started:
+🎓 Кубанский государственный технологический университет
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Факультет информационных технологий
+
+📖 Направление: "Управление и информатика в технических системах"
+
+📚 Курсы:
+
+Stepik - Python, алгоритмы, структуры данных
+
+CodeWars - практика алгоритмических задач
+
+LeetCode - решение задач на собеседованиях
+
+Projector - обучающие материалы
